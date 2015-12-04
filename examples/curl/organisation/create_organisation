@@ -1,0 +1,4 @@
+curl -X POST -H "X-Authorization: ORGANISATION_API_TOKEN" -H "Content-Type: application/json" -H "Cache-Control: no-cache" -d '{
+    "name" : "Test organisation",
+    "image" : "/9j/2wCEAAgGBgcGBQgHB....ZgUlFJVnOLRRSUAf//Z"
+}' 'https://exenzo.nl/api/v1/organisation'

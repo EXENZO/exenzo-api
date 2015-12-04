@@ -1,0 +1,3 @@
+curl -X PUT -H "X-Authorization: ORGANISATION_API_TOKEN" -H "Content-Type: application/json" -H "Cache-Control: no-cache" -d '{
+    "name" : "Organisation Ltd"
+}' 'https://exenzo.nl/api/v1/organisation/{organisation_id}'

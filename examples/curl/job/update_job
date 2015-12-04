@@ -1,0 +1,4 @@
+curl -X PUT -H "X-Authorization: SOMETHING" -H "Content-Type: application/json" -H "Cache-Control: no-cache" -d '{
+    "name" : "Job Title",
+    "image" : "iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAYAA....mVhZHlxyWU8AAAAAElFTkSuQmCC"
+}' 'https://exenzo.nl/api/v1/job/{job_id}'

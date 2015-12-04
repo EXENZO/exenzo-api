@@ -1,0 +1,12 @@
+curl -X POST -H "X-Authorization: SOMETHING" -H "Content-Type: application/json" -H "Cache-Control: no-cache" -d '{
+    "name" : "Job Title",
+    "category_id" : "OWZ8MLN2",
+    "organisation_id" : "4BL3Dn1P",
+    "city" : "Breda",
+    "text" : "<p>Text<p>",
+    "apply_type" : "URL",
+    "description" : "description",
+    "apply_url" : "http://example.com/apply_url",
+    "segments" : ["NEZQ8j9J", "45Z6QjOB", "dpjdEZ3R", "9enVbnWM", "eDjXOn7G", "GkLe1Lp5", "0rnaxwL8"],
+    "image" : "iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAYAA....mVhZHlxyWU8AAAAAElFTkSuQmCC"
+}' 'https://exenzo.nl/api/v1/job'
