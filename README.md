@@ -6,16 +6,16 @@ The API is [REST API](https://en.wikipedia.org/wiki/Representational_state_trans
 See [status.exenzo.com](http://status.exenzo.com/) for API status updates, outages, and scheduled maintenance.
 
 ## Checklist
-* Familiarize yourself with API functionality
+* [Familiarize yourself with API functionality](https://github.com/EXENZO/exenzo-api/wiki)
 * Read the EXENZO [API Terms of Use](#)
 * [Register your application](#) and get a test token
+* [View the full documentation in the wiki](https://github.com/EXENZO/exenzo-api/wiki)
 * Hack away
 
 ## Basics
 - **[Managing Organisations](https://github.com/EXENZO/exenzo-api/wiki/1.3-Organisation)**
 - **[Managing Jobs](https://github.com/EXENZO/exenzo-api/wiki/1.2-Job)**
 - **[Managing Job on Networks](https://github.com/EXENZO/exenzo-api/wiki/1.4-Post)**
-
 
 ## Examples
 - **[PHP](https://github.com/EXENZO/exenzo-api/tree/master/examples/php)**
