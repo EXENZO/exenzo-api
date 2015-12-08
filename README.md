@@ -7,8 +7,8 @@ See [status.exenzo.com](http://status.exenzo.com/) for API status updates, outag
 
 ## Checklist
 * Familiarize yourself with API functionality
-* Read the EXENZO [API Terms of Use][]
-* [Register your application][] and get a test token
+* Read the EXENZO [API Terms of Use](#)
+* [Register your application](#) and get a test token
 * Hack away
 
 ## Basics
