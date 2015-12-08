@@ -16,5 +16,11 @@ See [status.exenzo.com](http://status.exenzo.com/) for API status updates, outag
 - **[Managing Jobs](https://github.com/EXENZO/exenzo-api/wiki/1.2-Job)**
 - **[Managing Job on Networks](https://github.com/EXENZO/exenzo-api/wiki/1.4-Post)**
 
+
+## Examples
+- **[PHP](https://github.com/EXENZO/exenzo-api/tree/master/examples/php)**
+- **[Ruby](https://github.com/EXENZO/exenzo-api/tree/master/examples/ruby)**
+- **[Python](https://github.com/EXENZO/exenzo-api/tree/master/examples/python)**
+
 ## Changes
 * 2015-12-08 Deployed v1 API of the EXENZO 3.0 platform.
