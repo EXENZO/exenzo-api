@@ -23,4 +23,5 @@ See [status.exenzo.com](http://status.exenzo.com/) for API status updates, outag
 - **[Python](https://github.com/EXENZO/exenzo-api/tree/master/examples/python)**
 
 ## Changes
+* 2015-12-22 Clarified some information concerning the validity of JSON input and segment use.
 * 2015-12-08 Deployed v1 API of the EXENZO 3.0 platform.
