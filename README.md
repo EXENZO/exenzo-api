@@ -23,5 +23,7 @@ See [status.exenzo.com](http://status.exenzo.com/) for API status updates, outag
 - **[Python](https://github.com/EXENZO/exenzo-api/tree/master/examples/python)**
 
 ## Changes
+* 2016-02-19 Improved 404 response when updating a jobposting, it now returns a message instead of no content.
+* 2016-02-19 Added 404 response when posting a job to a network when the job or network wern't found.
 * 2015-12-22 Clarified some information concerning the validity of JSON input and segment use.
 * 2015-12-08 Deployed v1 API of the EXENZO 3.0 platform.
