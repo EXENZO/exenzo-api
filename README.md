@@ -24,6 +24,10 @@ See [status.exenzo.com](http://status.exenzo.com/) for API status updates, outag
 - **[Python](https://github.com/EXENZO/exenzo-api/tree/master/examples/python)**
 
 ## Changes
+You are able to signup to our [notification service](http://exenzo.us7.list-manage2.com/subscribe?u=31dc22e3b5f498cbbf1a5e9b6&id=580439f706) if you wish to remain informed of any changes concerning:
+* New sites in the EXENZO network
+* New features in the EXENZO API
+
 * 2016-02-26 Added networks: Schuttevaer, NativeSpeakerJobs, Gamer.nl, Aviabanen
 * 2016-02-19 Improved 404 response when updating a jobposting, it now returns a message instead of no content.
 * 2016-02-19 Added 404 response when posting a job to a network when the job or network wern't found.
