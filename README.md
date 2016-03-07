@@ -10,6 +10,7 @@ See [status.exenzo.com](http://status.exenzo.com/) for API status updates, outag
 * Read the EXENZO [API Terms of Use](#)
 * [Register your application](#) and get a test token
 * [View the full documentation in the wiki](https://github.com/EXENZO/exenzo-api/wiki)
+* [Stay informed, Sign up here to receive an e-mail when something changes.](http://exenzo.us7.list-manage2.com/subscribe?u=31dc22e3b5f498cbbf1a5e9b6&id=580439f706)
 * Hack away
 
 ## Basics
