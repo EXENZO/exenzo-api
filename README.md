@@ -26,6 +26,7 @@ See [status.exenzo.com](http://status.exenzo.com/) for API status updates, outag
 ## Changes
 You are able to signup to our [notification service](http://exenzo.us7.list-manage2.com/subscribe?u=31dc22e3b5f498cbbf1a5e9b6&id=580439f706) if you wish to remain informed of any changes concerning the API. This can range from the publication of new sites, uptill new features in the API.
  
+* 2016-11-09 Added job_uri field to the response for the Job Posting endpoint.
 * 2016-10-24 Added featured job feature.
 * 2016-10-06 Update the network list for both EXENZO and VakmediaNet 
 * 2016-03-07 It is now possible to assign languages to jobs.  
